@@ -1,0 +1,4 @@
+name: MobMode
+version: '1.0-SNAPSHOT'
+main: at.mak.mobmode.MobMode
+api-version: '1.19'

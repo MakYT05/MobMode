@@ -1,0 +1,4 @@
+name: MobMode
+version: '${project.version}'
+main: at.mak.mobmode.MobMode
+api-version: '1.19'
